@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @carrierudd
-- 👀 I’m interested in templates
-- 🌱 I’m currently learning canva
-- 💞️ I’m looking to collaborate on worksheets
-- 📫 How to reach me please dont
+- 👋 Hi, I’m @carrie
+- 👀 I’m interested in templates and I am new to coding.
+- 🌱 I’m currently learning canva and how to incorporate elements and designs into worksheets
+- 💞️ I’m looking to collaborate on templates for Canva 
+- 📫 How to reach me crudd@my365.bellevue.edu
 - 😄 Pronouns: my name
 - ⚡ Fun fact: i love geocaching
 
