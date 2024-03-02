@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning canva and how to incorporate elements and designs into worksheets
 - 💞️ I’m looking to collaborate on templates for Canva 
 - 📫 How to reach me crudd@my365.bellevue.edu
-- 😄 Pronouns: me/my name
+- 😄 Pronouns: me/my name 🤩
 - ⚡ Fun fact: i love geocaching
 
 <!---
